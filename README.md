@@ -2,10 +2,6 @@
 
 A responsive and user-friendly web application that allows users to fetch and view real-time weather information and 7-day forecasts for any city using the OpenWeatherMap API.
 
-## 🔗 Live Demo
-
-[Check it out here](#) *(Update with your deployed URL if applicable)*
-
 ---
 
 ## 🚀 Features
