@@ -29,5 +29,43 @@ A responsive and user-friendly web application that allows users to fetch and vi
 - **OpenWeatherMap API**
 
 ---
-const API_KEY = 'your_api_key_here';
+const API_KEY = '3f8920fc7080bb847233ebfad0859154';
+
+---
+
+Open index.html in your preferred web browser
+
+---
+
+📝 How to Use
+Enter a city name
+
+Click "Get Weather"
+
+(Optional) Choose temperature unit: Celsius or Fahrenheit
+
+(Optional) Pick a specific date to verify forecast availability
+
+Scroll to view the 7-day forecast
+
+---
+
+📬 Report Issues
+If you find a bug or need help, reach out:
+
+📧 Email: chanduinternship@gmail.com
+
+📱 Mobile: 8008348678
+
+---
+
+🧑‍💻 Author
+Chandu
+Bachelor’s in Electronics & Communication Engineering (2021–2025)
+
+---
+
+📄 License
+This project is open-source and available under the MIT License.
+
 
